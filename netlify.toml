@@ -5,5 +5,5 @@ status = 200
 
 [[redirects]]
 from = "/api/*"
-to = "http://wevot-env.eba-3kcrk3sp.eu-west-2.elasticbeanstalk.com/:splat"
+to = "http://cohortmanager-env.eba-isihgced.eu-west-2.elasticbeanstalk.com/:splat"
 status = 200

@@ -1,0 +1,9 @@
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+
+[[redirects]]
+from = "/api/*"
+to = "http://wevot-env.eba-3kcrk3sp.eu-west-2.elasticbeanstalk.com/:splat"
+status = 200

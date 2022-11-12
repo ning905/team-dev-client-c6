@@ -19,7 +19,7 @@ A web-based learning management system where teachers and admins can manage cour
 
 ## General info
 
-This is the client repository for Cohort Manager. You can find the [server repository](https://github.com/ning905/team-dev-server-c6) here.
+This is the client repository for Cohort Manager. You can find the server repository [here](https://github.com/ning905/team-dev-server-c6).
 
 This project is built for the Boolean Course as the team development project.
 

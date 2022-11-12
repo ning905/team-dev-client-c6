@@ -74,5 +74,5 @@ HTML, CSS, JavaScript, React, Scss, Material UI, Axios
    ![confirm](ReadmeImg/confirm-deactivation.png)
 
 4. Admins and teachers can still see the posts made by a deactivated user and view their profile, while they are displayed as `[removed]` to users.
-   ![deactivate-admin-view](ReadmeImg/deactivated-user-view.png)
+   ![deactivate-admin-view](ReadmeImg/deactivated-admin-view.png)
    ![deactivate-user-view](ReadmeImg/deactivated-user-view.png)
